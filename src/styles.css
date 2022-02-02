@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.page > img:hover {
+  filter: brightness(50%);
+}
+.page > button {
+  width: 100px;
+  height: 40px;
+  font-weight: 30px;
+}
+.page > img {
+  height: 300px;
+}
+.page > button:hover {
+  background-color: burlywood;
+}
